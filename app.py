@@ -420,5 +420,4 @@ st.markdown(
     </p>
     """,
     unsafe_allow_html=True
->>>>>>> 1f21349b77a75e55fecf68151f931fb720bb41f5
 )
